@@ -16,7 +16,8 @@ In this project I will try to analyze and visualize the dataset using python lib
     3.	_If the target place and weapons used have any relation._
 
 - In Project 3
+  - Hypothesis: _if US elections has any impact or relation with the unemployment rate and minimum wages in the country._
   - Dataset 1 https://www.kaggle.com/jayrav13/unemployment-by-county-us Unemployment rate by County (885549,5) with size 34.1 MB
   - Dataset 2 https://www.kaggle.com/stevepalley/2016uspresidentialvotebycounty 2016 US Presidential vote election (18476,9) with 1.6 MB 
   - Dataset 3 https://www.kaggle.com/alifarukyucel/minimum-wage-by-state/data (2751,9) with 170 KB 
-  - Hypothesis: _if US elections has any impact or relation with the unemployment rate and minimum wages in the country._
+  
